@@ -8,5 +8,5 @@
 
 ## 서버 설정 <a id="undefined-1"></a>
 
-* [Untitled](undefined-1/untitled.md)
+* [서버 공통 옵션](undefined-1/untitled.md)
 
